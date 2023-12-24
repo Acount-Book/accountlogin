@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9d89c671.css",
+    "main.js": "/static/js/main.5c785459.js",
+    "static/media/PretendardVariable.woff2": "/static/media/PretendardVariable.154ce88f9118a30d9d0e.woff2",
+    "static/media/네잎클로버 1.svg": "/static/media/네잎클로버 1.3cb119a5c39d13a2a369.svg",
+    "static/media/동전뽑기기계.svg": "/static/media/동전뽑기기계.9d6788f29bcf4d4a48e8c1afb73022ab.svg",
+    "static/media/bookicon.svg": "/static/media/bookicon.2fe16aa0aa0ee4b5fa1c.svg",
+    "static/media/fastion.svg": "/static/media/fastion.8282c269ff27ace8f998.svg",
+    "static/media/car.svg": "/static/media/car.d12a5a707e748c258236.svg",
+    "static/media/culture.svg": "/static/media/culture.d869e634d232545f52ea.svg",
+    "static/media/game.svg": "/static/media/game.46cec03994b346a02fbe.svg",
+    "static/media/life.svg": "/static/media/life.e23d020d66fe56e3175f.svg",
+    "static/media/Local cafe.svg": "/static/media/Local cafe.7185874d892df6de0dce.svg",
+    "static/media/boxicon.svg": "/static/media/boxicon.2677bb97f88b413ddde0.svg",
+    "static/media/동전뽑기손잡이.svg": "/static/media/동전뽑기손잡이.a0e244cbd812e90f0498a342323114be.svg",
+    "static/media/food.svg": "/static/media/food.e46dd9b3831256f74b30.svg",
+    "static/media/3사.svg": "/static/media/3사.3ce4994de3650ecc7d0f.svg",
+    "index.html": "/index.html",
+    "static/media/present.svg": "/static/media/present.58cbcb744baa83a1fb15.svg",
+    "static/media/doctor.svg": "/static/media/doctor.c73e629061593408c4c7.svg",
+    "static/media/Frame 361.svg": "/static/media/Frame 361.da5abfd41cdc12aadb3b.svg",
+    "static/media/home.svg": "/static/media/home.b87aacb56bdf24111ce1.svg",
+    "main.9d89c671.css.map": "/static/css/main.9d89c671.css.map",
+    "main.5c785459.js.map": "/static/js/main.5c785459.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d89c671.css",
+    "static/js/main.5c785459.js"
+  ]
+}
